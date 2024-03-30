@@ -1,0 +1,15 @@
+this._s=this._s||{};(function(_){var window=this;
+try{
+_.sf(_.rq);
+}catch(e){_._DumpException(e)}
+try{
+_.Xic=function(a){a.isAvailable()&&(_.ba.silk=_.ba.silk||{},_.ba.silk.s=_.ba.silk.s||{},_.ba.silk.s.sis={},_.ba.silk.s.sis.ca=a.sE.bind(a))};
+}catch(e){_._DumpException(e)}
+try{
+_.x("dt4g2b");
+var oQk=function(a){_.Yn.call(this,a.Ka)};_.F(oQk,_.Yn);oQk.nb=_.Yn.nb;oQk.Ga=_.Yn.Ga;oQk.prototype.isAvailable=function(){return!0};oQk.prototype.sE=function(a){var b=void 0===a?{}:a,c=b.w8;a=b.yha;b=b.ODa;void 0!==c?_.zg({serviceName:"sis",methodName:"ca"}):_.zg({serviceName:"sis",methodName:"caar"});a:switch(b){case 0:b="https://accounts.google.com/ServiceLogin";break a;default:b="https://accounts.google.com/AccountChooser"}c=_.wna(b,{hl:_.Su(),"continue":c||_.Qs().toString()});(0,_.Ne)(c,a)};
+_.$n(_.l0a,oQk);
+_.y();
+}catch(e){_._DumpException(e)}
+})(this._s);
+// Google Inc.

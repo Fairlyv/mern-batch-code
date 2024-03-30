@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')
+
+
+.test{ 
+    color: brown;
+    
+
+    
+}
+.bg-card-container{
+    background-color:black;
+    background-image: url("../assets/image2.avif");
+    height: 300vh;
+    width: 350px;
+    color: white;
+    
+
+
+    background-repeat: no-repeat;
+    background-size: conver;
+
+    text-align: center;
+
+}
+.each{
+    text-align: center;
+}
+.read{
+    text-align: left;
+}
+
+
+.button {
+
+
+    background-color:orange;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color:white;
+    
+    
+}
+.skip{
+    text-decoration: underline;
+}
